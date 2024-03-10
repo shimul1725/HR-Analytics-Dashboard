@@ -1,0 +1,1 @@
+This project provides a comprehensive analysis of HR data through interactive visualizations. Gain insights into key performance indicators (KPIs), Department wise Attrition, Number of Employees by age group, Job Satisfaction Rating, Education field wise attrition and Attrition rate by gender for different age groups,
